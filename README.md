@@ -4,7 +4,8 @@
 
   [atabook](https://mallooryyooooo.atabook.org/)⁠ ◝ ✧ [strawpage](https://heyuyuine.straw.page) ✧ ◜ [carrd.co](https://mayorry.carrd.co)
 
-<img width="736" height="736" alt="Image" src="https://github.com/user-attachments/assets/087898d6-0314-4d35-b310-7ded4d95344d" />
+<img width="736" height="667" alt="Image" src="https://github.com/user-attachments/assets/d05755bf-8856-465d-b86c-357650db2099" />
+
 
 
  <div align="center">
