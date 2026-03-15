@@ -1,6 +1,9 @@
 <div align="right">
 
-<img width="104" height="112" alt="Image" src="https://github.com/user-attachments/assets/3011adff-cc73-4f71-9a21-aa2bea2f9466" /> $\color{rgb(236,208,236)}{\textsf{ע𝑒𝐡𝑒𝐲𝔂𝕪  𝔟𝘳𝘰}}$
+  <img width="200" height="205" alt="Image" src="https://github.com/user-attachments/assets/559034b5-f549-470e-ad27-1040ebd17610" />
+<img width="104" height="112" alt="Image" src="https://github.com/user-attachments/assets/3011adff-cc73-4f71-9a21-aa2bea2f9466" />
+
+$\color{rgb(236,208,236)}{\textsf{ע𝑒𝐡𝑒𝐲𝔟𝘳𝘰}}$
 
 <div align="center">
 
@@ -19,7 +22,7 @@ $\color{rgb(128,185,177)}{\textsf{𝑱}}$ $\color{rgb(148,199,180)}{\textsf{𝖎
   
 <div align="center">
  
-![Image](https://github.com/user-attachments/assets/8e6958c9-7c11-46e0-b665-56b872a9e5d4)
+
 
 <img width="600" height="92" alt="Image" src="https://github.com/user-attachments/assets/58434804-cb3d-40ce-98b2-fa95f83a9a0b" />
 
